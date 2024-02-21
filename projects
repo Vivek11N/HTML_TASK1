@@ -1,0 +1,19 @@
+<section id="projects" class="container">
+        <h2>Projects</h2>
+        <div>
+            <h3>Vector Encryption Extent ON RISC V</h3>
+            <p>This process create an operating module in Risc V core and take in vector informtion and produce vector output there by redusing the time for the performance of the encryption algorithm</p>
+            <p>Its a crunntly on going project</p>
+        </div>
+        <div>
+            <h3>Remote Health Monitoring System</h3>
+            <p>This consist of an hardware device whichcontiously monitor vital health parameter and add the data to one of the IOT platform which can be monitored on  real time basis</p>
+        </div>
+        <div>
+            <h3>Temperature controlled fan</h3>
+            <h3>Quiz Buzzer</h3>
+
+            </p>
+        </div>
+        <!-- Add more projects as needed -->
+    </section>
